@@ -92,32 +92,32 @@ endmodule
 ## OUTPUT:
 ### UP-COUNTER:
 ### RTL Logic:
-![OUTPUT](./uprtl.png)
+![q](https://github.com/Adhithya4116/Exp-7-Synchornous-counters-/assets/118707079/2bf05910-d5e8-4059-ad9b-84610c0d96a0)
 <br>
 
 ### Timing Diagram for Counter:
-![OUTPUT](./uptime1.png)
+![uptime1](https://github.com/Adhithya4116/Exp-7-Synchornous-counters-/assets/118707079/a225c224-857a-43e6-80d8-88456831eff2)
 <br>
 
-![OUTPUT](./uptime2.png)
-
+![uptime2](https://github.com/Adhithya4116/Exp-7-Synchornous-counters-/assets/118707079/ef6f4039-f84f-42d9-be5c-fe4124f43a06)
 
 ### Truth Table: 
-![OUTPUT](./upctt.png)
+![upctt](https://github.com/Adhithya4116/Exp-7-Synchornous-counters-/assets/118707079/b32de2a1-c9a6-4e23-a408-37c49bbb8705)
 <br>
 
 ### DOWN-COUNTER:
 ### RTL Logic:
-![OUTPUT](./downrtl.png)
+![downrtl](https://github.com/Adhithya4116/Exp-7-Synchornous-counters-/assets/118707079/1fa4dc5b-e6e3-438a-8e5e-fc6b8211eaf8)
 
 ### Timing Diagram for Counter:
-![OUTPUT](./downtime1.png)
+![downtime1](https://github.com/Adhithya4116/Exp-7-Synchornous-counters-/assets/118707079/e173ac6e-3566-433c-b6e5-76e83b8883af)
 <br>
 
-![OUTPUT](./downtime2.png)
+![downtime2](https://github.com/Adhithya4116/Exp-7-Synchornous-counters-/assets/118707079/1a32a4a7-64fb-481c-9c86-a94eade9f836)
 
 ### Truth Table:
-![OUTPUT](./dctt1.png)
+![dctt1](https://github.com/Adhithya4116/Exp-7-Synchornous-counters-/assets/118707079/28142e89-265b-4d43-83a6-1de98e05df64)
+
 <br>
 
 ## RESULTS 
